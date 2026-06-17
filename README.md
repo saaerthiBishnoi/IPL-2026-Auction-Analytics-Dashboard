@@ -237,47 +237,7 @@ Finds best non-XI player as impact substitute.
 
 ---
 
-# Dashboard Preview
 
-## Home Dashboard
-
-![Home Dashboard](Dashboard_Screenshots/Home_Dashboard_1)
-
-![Home Dashboard](Dashboard_Screenshots/Home_Dashboard_2)
-
----
-
-## Auction Intelligence
-
-![Auction Intelligence](Dashboard_Screenshots/Auction_Intel_1)
-
-![Auction Intelligence](Dashboard_Screenshots/Auction_Intel_2)
-
----
-
-## Role-Based Player Analytics
-
-![Role Analytics](Dashboard_Screenshots/Role_Based_Data_1)
-
-![Role Analytics](Dashboard_Screenshots/Role_Based_Data_2)
-
----
-
-## Coach & Captain Intelligence
-
-![Coach & Captain Intelligence](Dashboard_Screenshots/Coach_Captain_intel_1)
-
-![Coach & Captain Intelligence](Dashboard_Screenshots/Coach_Captain_intel_2)
-
----
-
-## Best XI Selector
-
-![Best XI Selector](Dashboard_Screenshots/Best_XI_1)
-
-![Best XI Selector](Dashboard_Screenshots/Best XI_2)
-
----
 
 # Dataset Files
 
