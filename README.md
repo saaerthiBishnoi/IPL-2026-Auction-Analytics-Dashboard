@@ -31,6 +31,25 @@ This project analyzes the **IPL 2026 Auction and Tournament Performance** using 
 This dashboard simulates how IPL franchises use analytics for **auction planning, squad building, and tactical decision-making**.
 
 ---
+# Project Highlights
+
+- Built a 5-sheet Excel analytics dashboard.
+- Analyzed IPL 2026 auction spending across 10 franchises.
+- Designed custom player scoring models for role-based selection.
+- Identified undervalued and overpriced players.
+- Created Best XI using performance-based filters.
+- Evaluated coach ROI and captain win efficiency.
+
+  # Business Questions Solved
+
+- Which teams spent their auction purse most efficiently?
+- Which players delivered the highest value for their price?
+- Which players were undervalued and overpriced in the auction?
+- Which player roles consumed the highest budget share?
+- Which coach delivered the highest ROI based on wins?
+- Which captain maintained the best win percentage?
+- Who were the best performers role-wise (Anchor, Wicketkeeper, Finisher, Bowler)?
+- What is the strongest possible Best XI based on performance analytics?
 
 # Datasource
 
@@ -63,7 +82,15 @@ https://www.espncricinfo.com/auction/ipl-2026-auction-1515016
 https://www.espncricinfo.com/records/trophy/individual-most-matches-as-captain/indian-premier-league-117
 
 ---
+# Key KPIs
 
+- Best Team: GT
+- Best Batsman: Vaibhav Suryavanshi
+- Best Bowler: Kagiso Rabada
+- Best Captain: Rajat Patidar
+- Best Coach: Mahela Jayawardene
+
+  
 
 ## Home Dashboard
 
@@ -256,20 +283,20 @@ Contains:
 
 ---
 
-# Tools Used
+# Excel Skills Demonstrated
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* VLOOKUP
-* INDEX MATCH
-* SUMIF
-* IF
-* IFERROR
-* Data Cleaning
-* Web Scraping
-* Claude AI
-
+- Pivot Tables
+- Pivot Charts
+- VLOOKUP
+- INDEX MATCH
+- IF / IFERROR
+- SUMIF
+- Data Cleaning
+- Data Transformation
+- Dashboard Design
+- Data Modelling
+- Conditional Formatting
+- Business Intelligence
 ---
 
 # Key Insights
@@ -283,7 +310,24 @@ Contains:
 * Nitish Kumar Reddy was selected as the most balanced finisher.
 * Kagiso Rabada emerged as the best bowler based on bowling score.
 
+# Author
+
+**Saarthi Bishnoi**
+
+B.Tech CSE (Information Security)  
+VIT Vellore
+
+LinkedIn: https://www.linkedin.com/in/saarthi-bishnoi-66572231a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+GitHub: https://github.com/saaerthiBishnoi
+
 ---
+
+# Future Improvements
+
+- Automate data scraping using Python.
+- Integrate Power BI version.
+- Add season-over-season comparison.
+- Build player prediction models using ML.
 
 # References
 
