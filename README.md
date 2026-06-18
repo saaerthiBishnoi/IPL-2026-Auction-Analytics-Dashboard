@@ -136,7 +136,6 @@ Data was collected through:
 
 * Web scraping
 * Manual extraction
-* Claude AI extraction
 * CSV/Excel conversion
 
 Datasets collected:
